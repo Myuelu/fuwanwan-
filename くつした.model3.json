@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "くつした.moc3",
+		"Textures": [
+			"くつした.1024/texture_00.png"
+		],
+		"Physics": "くつした.physics3.json",
+		"DisplayInfo": "くつした.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
